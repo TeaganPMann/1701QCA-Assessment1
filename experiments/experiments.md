@@ -13,7 +13,7 @@ Sun and Moon
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image](missingimage.png)
+![Image](SunandMoon.jpg)
 
 (My successfully completed project, with photos showing the Microbit responding to light over 200 and light less than 200)
 
