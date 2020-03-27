@@ -54,20 +54,29 @@ In this experiment, the first time I did it, the dimming of the light was incred
 
 ### USING A TRANSISTOR TO DRIVE A MOTOR ###
 
-(Replace this with the experiment name)
+In this experiment, you use a motor to spin a fan around. Slow at first, then speeds up, before stopping for ten seconds and then starting again. 
+
+For this experiment, you need the following;
+
+x1 Transistor.
+x1 2.2k Resistor.
+x1 Terminal connector.
+x1 Motor.
+x3 Male to Female jumper wires.
+x1 Fan blade.
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](fanexperiment.jpg)
 
-(Insert a caption here)
+The following photo shows the movement of the fan. I had to hold the wires to keep them in place inside the terminal connector.
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment I feel like a learned some of the true power and capabilities the Micro:bit has - it's not just something with pretty LED lights, but something that, with the right components, can create things with movement. I really enjoyed this experiment due to using the motor and therefore really wanted to include it in my experiments portfolio. I learned how to create movement with the Micro:bit and how movement doesn't need to be the simplicity of an object moving and not stopping until everything is disconnected. But rather, that a motor, when coded correctly, can follow instruction.
 
-This experiment could be the basis of a real world application such as (insert something here).
+With a bigger fan and bigger motor, this could certainly be used as a typical fan - one to cool the user down. Maybe, if you continue to program the motor to stop every ten seconds, it could stop the user from getting too cold, or even be a more powersavvy option - limiting power consuption and lowering electricity bills. Of course, you could probably run it off a bigger battery, but that seems like a less environmentally conscious option.
 
 ### Experiment name ###
 
