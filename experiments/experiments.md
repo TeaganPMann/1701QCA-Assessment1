@@ -8,7 +8,13 @@
 
 ### USING A LIGHT SENSOR & ANALOG INPUTS ###
 
-Sun and Moon
+The point of this experiment is to get the Micro:bit to recognise lighting over and under 200. When it is over, it will use its LEDs to create an image of the sun, and when it is under 200, it will instead use its LEDs to create an image of the moon.
+
+For this experiment, you need;
+
+x3 Male to Female jumper wires.
+x1 Phototransistor.
+x1 10K Resistor.
 
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
@@ -23,9 +29,17 @@ This was the first experiment in the book that well and truly blew my mind. I fo
 
 I believe this shows the basic workings of solar panels on outdoor garden lights. They charge via sunlight and then, when the light senses that it's getting dark around, it will turn on to create light. This can also be achieved if you cover the entirety of the solar panel, much how you can trigger the Microbit to show a moon in its LEDS by covering the top of the phototransistor, used in this experiment. 
 
-### Experiment name ###
+### DIMMING AN LED USING A POTENTIOMETER ###
 
-(Replace this with the experiment name)
+The point of this experiment is to control the brightness settings of a red 5MM LED on the solderless breadboard. To play with these settings you are using a pententiometer as a dimmer switch. 
+
+For this experiment, you need the following;
+
+x1 Potentiometer.
+x1 Push switch.
+x1 Red 5MM LED.
+x1 47 Resistor.
+x7 Male to Female jumper wires.
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -36,11 +50,9 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, the first time I did it, the dimming of the light was incredibly noticeable and mind blowing. However, the second time the dimming wasn't crazy apparent, but it still did what the experiment was meant to do. The setup was decently simple considering the amount of wires, and I enjoyed how interactive this particular experiment was, with the dimming switch and the button to power the LED on and off. Having an experiment this interactive in both the creation and final product was a lot of fun, and made the experience more enjoyable. 
 
-This experiment could be the basis of a real world application such as (insert something here).
-
-### Experiment name ###
+### USING A TRANSISTOR TO DRIVE A MOTOR ###
 
 (Replace this with the experiment name)
 
