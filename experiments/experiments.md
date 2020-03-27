@@ -68,7 +68,7 @@ x1 Fan blade.
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](fanexperiment.jpg)
+![Image](Fan-experiment.jpg)
 
 The following photo shows the movement of the fan. I had to hold the wires to keep them in place inside the terminal connector.
 
