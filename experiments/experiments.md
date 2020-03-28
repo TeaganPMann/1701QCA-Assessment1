@@ -85,7 +85,7 @@ With a bigger fan and bigger motor, this could certainly be used as a typical fa
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](compass.jpg)
 
 (Insert a caption here)
 
@@ -102,7 +102,7 @@ This experiment could be the basis of a real world application such as (insert s
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](buzzer.jpg)
 
 (Insert a caption here)
 
