@@ -78,7 +78,7 @@ In this experiment I feel like a learned some of the true power and capabilities
 
 With a bigger fan and bigger motor, this could certainly be used as a typical fan - one to cool the user down. Maybe, if you continue to program the motor to stop every ten seconds, it could stop the user from getting too cold, or even be a more powersavvy option - limiting power consuption and lowering electricity bills. Of course, you could probably run it off a bigger battery, but that seems like a less environmentally conscious option.
 
-### Experiment name ###
+### MAKING A GAME USING A COMPASS ###
 
 (Replace this with the experiment name)
 
@@ -95,7 +95,7 @@ In this experiment, something new to me was or something I learned was (insert s
 
 This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
+### SETTING THE TONE WITH A PIEZO BUZZER ###
 
 (Replace this with the experiment name)
 
