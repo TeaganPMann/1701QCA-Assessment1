@@ -7,7 +7,9 @@ The point of this experiment is to get the Micro:bit to recognise lighting over 
 For this experiment, you need;
 
 x3 Male to Female jumper wires.
+
 x1 Phototransistor.
+
 x1 10K Resistor.
 
 #### Photo of completed project ####
@@ -29,9 +31,13 @@ The point of this experiment is to control the brightness settings of a red 5MM 
 For this experiment, you need the following;
 
 x1 Potentiometer.
+
 x1 Push switch.
+
 x1 Red 5MM LED.
+
 x1 47 Resistor.
+
 x7 Male to Female jumper wires.
 
 #### Photo of completed project ####
@@ -39,6 +45,10 @@ x7 Male to Female jumper wires.
 ![Image](light-dimmer.jpg)
 
 You can see that gradually the red 5MM LED got brighter as I played with the switch. I fear maybe my battery pack was running out, which resulted in a less obvious lighting difference than I hoped. But there is still a difference, so I decided to document this experiment still.
+
+For this experiment, you need the following;
+
+
 
 #### Reflection ####
 
@@ -51,10 +61,15 @@ In this experiment, you use a motor to spin a fan around. Slow at first, then sp
 For this experiment, you need the following;
 
 x1 Transistor.
+
 x1 2.2k Resistor.
+
 x1 Terminal connector.
+
 x1 Motor.
+
 x3 Male to Female jumper wires.
+
 x1 Fan blade.
 
 #### Photo of completed project ####
@@ -73,6 +88,14 @@ With a bigger fan and bigger motor, this could certainly be used as a typical fa
 
 For this experiment, the aim is to make a mini-game where you try to tilt the Micro:bit and find the secret compass heading that has been randomly selected. The closer you get to it, the red 5MM LED flickering will speed up. When it is at its fastest; it means you have found it. Press A - and you win! If you are wrong, the LEDs in the Micro:bit will display text telling you to "Try Again."
 
+For this experiment, you need the following;
+
+x1 Red 5MM LED.
+
+x1 47 Resistor.
+
+x2 Male to Female jumper wires.
+
 #### Photo of completed project ####
 
 ![Image](compass.jpg)
@@ -88,6 +111,12 @@ This experiement uses the basis of a compass like technology that can be used in
 ### SETTING THE TONE WITH A PIEZO BUZZER ###
 
 The point of this experiment is to allow the user to create sound with the Micro:bit. The website where you code the Micro:bit has a lot of tones available for the user to install onto the Micro:bit. The way to get the sound to work is either by using the buzzer, in the case of this experiment, or by connecting wired headphones or earphones directly to the Micro:bit via Crocodile (Alligator) clips, or aluminium foil.
+
+For this experiment, you need the following;
+
+x1 Piezo Element Buzzer.
+
+x2 Male to Female jumper wires.
 
 #### Photo of completed project ####
 
