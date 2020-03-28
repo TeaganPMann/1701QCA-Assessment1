@@ -1,10 +1,4 @@
-# Inventor Kit Experiments
-
-*Markdown reference: https://guides.github.com/features/mastering-markdown/*
-
-## Instructions ##
-
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
+# Inventor Kit Experiments - Teagan Mann #
 
 ### USING A LIGHT SENSOR & ANALOG INPUTS ###
 
@@ -17,11 +11,10 @@ x1 Phototransistor.
 x1 10K Resistor.
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](SunandMoon.jpg)
 
-(My successfully completed project, with photos showing the Microbit responding to light over 200 and light less than 200)
+My successfully completed project, with photos showing the Microbit responding to light over 200 and light less than 200.
 
 #### Reflection ####
 
@@ -42,11 +35,10 @@ x1 47 Resistor.
 x7 Male to Female jumper wires.
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](light-dimmer.jpg)
 
-(Insert a caption here)
+You can see that gradually the red 5MM LED got brighter as I played with the switch. I fear maybe my battery pack was running out, which resulted in a less obvious lighting difference than I hoped. But there is still a difference, so I decided to document this experiment still.
 
 #### Reflection ####
 
@@ -66,7 +58,6 @@ x3 Male to Female jumper wires.
 x1 Fan blade.
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](Fan-experiment.jpg)
 
@@ -80,35 +71,33 @@ With a bigger fan and bigger motor, this could certainly be used as a typical fa
 
 ### MAKING A GAME USING A COMPASS ###
 
-(Replace this with the experiment name)
+For this experiment, the aim is to make a mini-game where you try to tilt the Micro:bit and find the secret compass heading that has been randomly selected. The closer you get to it, the red 5MM LED flickering will speed up. When it is at its fastest; it means you have found it. Press A - and you win! If you are wrong, the LEDs in the Micro:bit will display text telling you to "Try Again."
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](compass.jpg)
 
-(Insert a caption here)
+(Pictured, you can see the screen filling as I tilt the device, and eventually the red 5MM LED lit up. At this point, it did not flash quickly, indicating I was nowhere near winning.)
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+Once again, for this experiment the approach is a little more hands on. But what I liked about it in particular was the interactivity. Yes, you can make a fan movie using a motor, and that's fun - but this actually requires user interaction to get the LEDs to move and respond, and then to get to the secret point in order to get the red 5MM LED to flash rapidly - therefore winning the game.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiement uses the basis of a compass like technology that can be used in many video games. The basic concept of this technology can be further applied and built on by using a GPS tracking device to establish the users location, then reward the user based on their location. This has already been applied to mobile phone games such as Pokemon Go, Wizard Unite and Minecraft Earth.
 
 ### SETTING THE TONE WITH A PIEZO BUZZER ###
 
-(Replace this with the experiment name)
+The point of this experiment is to allow the user to create sound with the Micro:bit. The website where you code the Micro:bit has a lot of tones available for the user to install onto the Micro:bit. The way to get the sound to work is either by using the buzzer, in the case of this experiment, or by connecting wired headphones or earphones directly to the Micro:bit via Crocodile (Alligator) clips, or aluminium foil.
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](buzzer.jpg)
 
-(Insert a caption here)
+Pictured is the setup for this experiment. 
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+During this experiment I got to learn how to enable sound elements through the Micro:bit using the buzzer. There are other ways to get sound to work, such as through earphones or headphones, but the buzzer comes with the kit, and comes with the instructions inside the booklet. It allowed me to learn the code needed to get the sound to work, and what sounds could be used.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment reminded me of a doorbell system. It isn't the same as a doorbell system, where you push a button on a separate panel and a sound plays for the people inside the home, to alert them that someone is at the door, but that is what it reminded me of. And I'm sure with some alterations made it could mimic a doorbell system.
 
