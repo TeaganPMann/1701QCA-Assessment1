@@ -13,6 +13,43 @@ https://makecode.microbit.org/projects/hack-your-headphones
 
 This project is related to mine because of the intention to create sound in an interesting way using the Micro:Bit. In this experiment there is the similar usage of crocodile clips and a headset that my Banana Keyboard project has. Except that in my final product, I decided to swap out the headphones for a piezo buzzer, so that the sound from the Micro:Bit could be heard in the YouTube video that I uploaded. Otherwise this experiment is pretty much my project, without the banana and orange added as triggers for sound to be made.
 
+### Related project 2 ###
+# Guitar #
+
+https://makecode.microbit.org/projects/guitar
+
+![Image](guitar.jpg)
+
+Another project that is related to the concept of sound being made through the Micro:bit. I personally would have loved to do this project if I had had the money for the resources, but I didn't and so I went with the banana keyboard concept instead. Much like the two previously mentioned experiments, this experiment needs crocodile clips and a headset in order to work. I feel though however, that this project would be a lot harder to get to function with the aluminium foil replacement that I used in my banana keyboard project. 
+
+### Related project 3 ###
+# Buzzer #
+
+![Image](buzzer.jpg)
+
+In this experiment, posted here; https://www.elecfreaks.com/store/blog/post/microbit-experiment-09buzzer-elecfreaks-mirco-bit-starter-kit-course.html - the purpose is to get the piezo buzzer to make sounds between high and low frequencies, like an alarm. This frequency change can be seen working on the LED screen of the Micro:bit as well. I found this project and decided to include it in my research, as it has to deal with sound including a piezo buzzer, rather than a headset.
+
+### Related project 4 ### 
+# Noise Level Detector #
+
+![Image](noise.jpg)
+
+I included this experiment for its relation to sound, but because of the introduction to other hardware outside of using a Micro:bit. It introduces the usage of the **Pimoroni, Enviro:Bit** and the **Pimoroni, Power:Bit**. The microphone on the enviro:bit detects the sound level, and from the resulting value a position on the 5x5 LED matrix is calculated and the corresponding LED is activated. The maximum values measured are stored and remain displayed on the LED matrix. To reset the LED, you press the A button. For more information on this experiment, here is the link; https://www.instructables.com/id/Microbit-Noise-Level-Detector/.
+
+### Related project 5 ###
+# Step Counter #
+
+![Image](step.jpg)
+
+Despite no relation to sound I decided to include this experiment as a related project, as it has to do with sensing movement/pressure. It is simple to make and doesn't require too many extra parts, but it's something that is practical to use, and can become creative - as you can choose whether or not to make it more aesthetically pleasing for your own personal use. Admittedly, you can just use an app on your phone or smart watch; but this seems way cooler. The link to the experiment can be found here; https://make.techwillsaveus.com/microbit/activities/step-counter-by-the-faraday-institute
+
+### Related project 6 ###
+# Motorbike Simulator #
+
+![Image](motorbike.jpg)
+
+I'm including this one not only because it looks cool, but because I feel it relates to my project due to the use of odd objects. My project uses fruit. With electronics. Which is a bit odd in my opinion, but then again, so is using handlebars for a simulator. I also feel like that this might be a project I would like to try and carry out for myself one day, as it seems like a cool project to show off. Unfortunately, the link for the experiment is gone, but you can see the image and story of its creation on this website; https://www.itpro.co.uk/desktop-hardware/26289/13-top-bbc-micro-bit-projects.
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
