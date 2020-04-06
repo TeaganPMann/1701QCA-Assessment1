@@ -87,7 +87,7 @@ I'm including this one not only because it looks cool, but because I feel it rel
 ## Interaction flowchart ##
 
 
-![Image](flowchart.png)
+![Image](flowchart.jpg)
 
 ## Process documentation
 
