@@ -11,13 +11,13 @@ Banana Keyboard
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-Hack Your Headphones
+# Hack Your Headphones #
 
 https://makecode.microbit.org/projects/hack-your-headphones
 
 ![Image](hackheadphones.png)
 
-This project is related to mine because of the intention to create sound in an interesting way using the Micro:Bit. There is also the use of a headset, which is similar to mine, even though in my final product I decided to substitute the headset for a piezo buzzer in order to make the sound audible in my YouTube video.
+This project is related to mine because of the intention to create sound in an interesting way using the Micro:Bit. In this experiment there is the similar usage of crocodile clips and a headset that my Banana Keyboard project has. Except that in my final product, I decided to swap out the headphones for a piezo buzzer, so that the sound from the Micro:Bit could be heard in the YouTube video that I uploaded. Otherwise this experiment is pretty much my project, without the banana and orange added as triggers for sound to be made.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
@@ -26,7 +26,7 @@ This project is related to mine because of the intention to create sound in an i
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before:* before reading #The Design of Everyday Things# I had the belief that affordances were clear things that were the advertised purpose of an object, for example, the advertised affordance of a chair being that you can #sit on the chair#. Not that there are hidden affordances to every object that can be temporary and dependant on the user. Such affordances being that the chair can be used to #stand on to reach high places# or that the chair can be #easily lifted for portability#.
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
