@@ -26,7 +26,7 @@ This project is related to mine because of the intention to create sound in an i
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before:* before reading #The Design of Everyday Things# I had the belief that affordances were clear things that were the advertised purpose of an object, for example, the advertised affordance of a chair being that you can #sit on the chair#. Not that there are hidden affordances to every object that can be temporary and dependant on the user. Such affordances being that the chair can be used to #stand on to reach high places# or that the chair can be #easily lifted for portability#.
+*What I thought before:* before reading # The Design of Everyday Things # I had the belief that affordances were clear things that were the advertised purpose of an object, for example, the advertised affordance of a chair being that you can # sit on the chair #. Not that there are hidden affordances to every object that can be temporary and dependant on the user. Such affordances being that the chair can be used to #stand on to reach high places# or that the chair can be # easily lifted for portability #.
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
