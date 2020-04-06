@@ -1,11 +1,5 @@
-# Assessment 1: Replication project
-
-*Fill out the following workbook with information relevant to your project.*
-
-*Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
-
-## Replication project choice ##
-Banana Keyboard
+## Replication project ##
+#### Banana Keyboard ####
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
@@ -56,53 +50,61 @@ This project is related to mine because of the intention to create sound in an i
 
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+
+![Image](flowchart.png)
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
+For the sake of this experiment I had to buy a banana and an orange, which kind of sucked because I don't eat either of those fruits, so they kind of had to go to waste. If this experiment had to deal with mangoes, there wouldn't have been an issue. Maybe someone should create a Mango keyboard.
 
-*This should have quite a lot of information!*
+Another issue I had is that at the time, I didn't have access to Crocodile clips. I hadn't been able to afford them and it was really difficult to go out and buy them. Thanks Corona. 
 
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+So in place of crocodile clips, due to a fun little fact posted on the MakeCode website, I was able to use aluminium foil instead. It was harder to work with due to having to make it thin like a wire, but also making it strong enough to hold position inside of a fruit.
 
-![Image](missingimage.png)
+![Image](crocodile.png)
 
-*Include screenshots of the code you have used.*
+In the following video that I uploaded to YouTube, I show how I went about making the project. Due to the lack of crocodile clips, I also had to use a knife to make holes in the fruits for the aluminium foil to go into, because as you are well aware, aluminium foil isn't exactly sharp. 
+
+https://www.youtube.com/watch?v=b69ccWVaTV4&t=19s
+
+I made sure to use a cutting board as well for the experiment, as I feared due to the fruit, it would become messy.
+
+I decided on this experiment over the others, as I felt this would be the easiest experiment to carry out on my low budget.
+
+The code was easy enough to replicate and I found myself having no issues getting the code to function. The hardest part was making the experiment and I fear any issues I had were purely due to my use of aluminium foil.
+
+Below is a screenshot of the code I use;
+
+![Image](bananacode.png)
+
 
 ## Project outcome ##
 
-*Complete the following information.*
+SUCCESS!
 
 ### Project title ###
 
+Banana Keyboard
+
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+In this experiment, you are to make a banana keyboard. What you will need is a Micro:bit, a battery pack, some crocodile clips, a banana and an orange. With these items you should be able to eventually tap the banana to make a sound. It is up to you whether you use headphones, or a piezo buzzer to get the sound to come out clear.
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](bananafinal.png)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
+This is the closest image I have to show what the experiment can look like, if worked on correctly. 
 
-![Image](missingimage.png)
+![Image](bananaworking.png)
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+
+The most successful part of my experiment was simply that it worked. I wish I had proper crocodile clips to carry out the experiment, and it is definitely something to consider for my future project. I am just extremely grateful that there was a way to do the experiment without them, otherwise I would have had an issue, due to my lack of funds.
 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+I thought the project was super interesting to create due to its simplicity and whimsicality. I have the urge to use some of the elements of the experiment, and maybe with the use of bluetooth, maybe I would have the ability to make a literal banana phone - however I would have to do a lot more research for the project to carry it out. But it might be something I work on in my free time, if I'm feeling creative.
