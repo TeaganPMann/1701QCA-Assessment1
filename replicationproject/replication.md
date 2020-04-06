@@ -36,23 +36,23 @@ This project is related to mine because of the intention to create sound in an i
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before:* before reading this it was easy for me to take microinteractions for granted. Little things like volume buttons and auto-fill on web forms. It is easy to take these things for granted because they're used without much thought. I do not consider what it would be like to not have a certain feature on my phone. This article put into question my beliefs on whether or not a phones capabilities are fully fleshed out for each individual user - for example; should there be a notification on iPhones that when you silence your phones, that your alarms will not also be silenced? Should there be an option to quickly shut off all alarms?
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned:* I learned that a lot of microinteractions are created from trial and error in previous models. Sometimes mistakes have to be made in order to create something that is truly brilliant. Microinteractions come in the form of a website guessing your name based off of your email, or a website telling you the strength of your password. But, despite the name of the term having the word *micro* in it, that doesn't mean it has to be one little thing. A Microinteraction can be big, or even the entire point of a singular product. As long as things aren't over complicated and it is dedicated to a task. Such as a toaster - the entire product has one capability. It toasts. In that way, it is considered a Microinteraction. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about:* I want to know whether it is possible for a Microinteraction to become something that is so much bigger and better. When do we accept that maybe, a Microinteraction is no longer a microinteraction, instead of being a microinteraction with a plethora of affordances?
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on:* The banana keyboard would be considered a product that in itself is a Microinteraction, due to the matter of it only being useful for one thing - it is made with the purpose to create/make a sound. However, once you remove the Micro:Bit, making the Micro:Bit and Banana Keyboard setup separate entities once more, it is no longer a Microinteraction.
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before:* That the purpose of a prototype is to promote an idea to individuals who may be interested. But a small portion of prototyping is actually about promotion and more about learning about what can be done to improve your project before it does get taken further - whether being taken further means being put on the market, or before the idea becomes accessible for others to use.
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned:* I learned that in experiments, appearance can certainly matter. As the general population might become unsettled by what looks like a bunch of wires strapped to an object, hidden and out of site. They might think it is a bomb. My thought on this part of the article is that if you do not give an accurate appearance to a project, it may be misconstrued as something else and ruin the experience/experiment for yourself, or the user/intended audience.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about:* I want to learn more about Arduino. It looks similar to the Micro:Bit in some respects but is obviously a completely different type of product. I would like to learn how to use one, and what they're primarily used for. Another thing I would like to learn how to use is the Raspberry Pi. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on:* while appearance doesn't really come into play with my banana keyboard, if I was to prototype it I would have to disclose that the aluminium foil, in place of crocodile clips, was just a design choice for the early stages of my experiment. As the use of foil is quite juvenile and might make my product be taken a lot less seriously than intended. But then again...it's a banana that makes noises. 
 
 
 ## Interaction flowchart ##
