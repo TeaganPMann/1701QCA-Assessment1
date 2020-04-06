@@ -49,9 +49,6 @@ Despite no relation to sound I decided to include this experiment as a related p
 I'm including this one not only because it looks cool, but because I feel it relates to my project due to the use of odd objects. My project uses fruit. With electronics. Which is a bit odd in my opinion, but then again, so is using handlebars for a simulator. I also feel like that this might be a project I would like to try and carry out for myself one day, as it seems like a cool project to show off. Unfortunately, the link for the experiment is gone, but you can see the image and story of its creation on this website; https://www.itpro.co.uk/desktop-hardware/26289/13-top-bbc-micro-bit-projects.
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
-
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
